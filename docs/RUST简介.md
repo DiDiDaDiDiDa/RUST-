@@ -22,13 +22,13 @@ $ curl -sf -L https://static.rust-lang.org/rustup.sh | sh
 
 
 
-![image-20190403141703029](/Users/wangyu/Library/Application Support/typora-user-images/image-20190403141703029.png)
+![image-20190403141703029](https://github.com/DiDiDaDiDiDa/RUST-/blob/master/docs/images/image-20190403141703029.png)
 
 输入 1  即默认安装。如果输入2 自定义安装。输入3，取消安装，这里我们输入1.
 
 ###### 当然！我在下载的过程中碰到这个问题！
 
-![image-20190403143310409](/Users/wangyu/Library/Application Support/typora-user-images/image-20190403143310409.png)
+![image-20190403143310409](https://github.com/DiDiDaDiDiDa/RUST-/blob/master/docs/images/image-20190403143310409.png)
 
 解决办法， 
 
@@ -46,7 +46,7 @@ $ source ~/.bash_profile
 
 安装好了长这样：
 
-![image-20190403150513447](/Users/wangyu/Library/Application Support/typora-user-images/image-20190403150513447.png)
+![image-20190403150513447](https://github.com/DiDiDaDiDiDa/RUST-/blob/master/docs/images/image-20190403150513447.png)
 
 输入 rustc —version 查看一下版本号
 
